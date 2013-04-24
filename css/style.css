@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+
+#divAddItem {
+	border: 0.1em solid #eeeeee;
+}
+
+h3 {
+	margin: 0;
+}
+
+#saveTemplate {
+	display: none;
+	margin: auto;
+	padding: 0;
+}
+
+#dynamicScript {
+	display: none;
+}
+
+.error {
+	border: 1px dotted red;
+}
+
+#dataType {
+	display: none;
+}
+
+#dataTypeSelect {
+	display: none;
+}
+
+body {
+	font-size: 62.5%;
+	font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana",
+		"sans-serif";
+}
+
+#mainWrapper {
+	margin: auto;
+	max-width: 800px;
+}
+
+.classlistTemplate {
+	cursor: pointer;
+}
+
+#submitForm {
+	display: none;
+}
+
+#displayTemplates {
+	border: 0.1em dashed blue;
+}
+
+#dynamicScript {
+	display: none;
+}
+.txtBox{
+	margin-left : 2px;
+}
